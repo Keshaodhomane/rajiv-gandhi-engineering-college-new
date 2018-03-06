@@ -1,0 +1,17 @@
+/* background:#393F28 hara */
+/* background:#CDA450 pila */
+/* background:#646C49  lite hara */
+
+
+.logoandtitle, .header-squarelinks, .rightlinks, .orangebg{ background:#E07110;}
+
+.links-nav, .topstrip, .nav-tabs .nav-link {background:#ca5e00;}
+
+.icongrid > div:hover, .boxwithicon, .nav-tabs .nav-link.active{background:#ca5e00;}
+
+.boxwithicon:hover, .running-marquee, .footerbottom, .linkstitle h3, .noticeboard, .newsevents h2{ background:#E07110;}
+
+.btn-danger{background:#E07110; border-color:#E07110; }
+
+.newsdate h3{color:#E07110;}
+
